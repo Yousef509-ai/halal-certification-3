@@ -39,24 +39,25 @@
 <body>
     <div class="container">
         <h1>Blockchain-Backed Halal Meat Certification</h1>
-        <p>Welcome! This page explains how **Blockchain Certification (BCT)** enhances halal food transparency, security, and trust.</p>
-        
-        <h2>How It Works</h2>
-        <p>See the simple process below to understand how blockchain verifies halal certification:</p>
-        
-        <!-- Infographic Image -->
-        <img src="image 1.png" alt="Blockchain Halal Certification Infographic">
-        
-        <h2>Why It Matters</h2>
-        <p>Blockchain-backed certification ensures:</p>
-        <ul>
-            <li>🔍 **Transparency** – See exactly where your meat comes from.</li>
-            <li>✅ **Authenticity** – Prevents fraudulent halal claims.</li>
-            <li>🔒 **Security** – Data is tamper-proof and verified.</li>
-        </ul>
-        
-        <h2>Scan to Verify</h2>
-        <p>Scan the QR code on your product packaging to check its certification details instantly.</p>
-    </div>
+<p>Welcome! This page explains how <strong>Blockchain Certification (BCT)</strong> enhances halal food transparency, security, and trust.</p>
+
+<h2 style="color: black;">How It Works</h2>
+<p style="color: black;">See the simple process below to understand how blockchain verifies halal certification:</p>
+
+<!-- Infographic Image (Ensure this comment is properly closed) -->
+<img src="image1.png" alt="Blockchain Halal Certification Infographic">
+
+<h2 style="color: black;">Why It Matters</h2>
+<p style="color: black;">Blockchain-backed certification ensures:</p>
+<ul>
+    <li>🔍 <strong>Transparency</strong> – See exactly where your meat comes from.</li>
+    <li>✅ <strong>Authenticity</strong> – Prevents fraudulent halal claims.</li>
+    <li>🔒 <strong>Security</strong> – Data is tamper-proof and verified.</li>
+</ul>
+
+<h2 style="color: black;">Scan to Verify</h2>
+<p style="color: black;">Scan the QR code on your product packaging to check its certification details instantly.</p>
+
+</div> <!-- Ensure this closes the right container -->
 </body>
 </html>
