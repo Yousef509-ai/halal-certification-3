@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,6 +25,6 @@
     </style>
 </head>
 <body>
-    <img src="image1.png" alt="Blockchain Halal Certification Infographic">
+    <img src="image.1.webp" alt="Blockchain Halal Certification Infographic">
 </body>
 </html>
