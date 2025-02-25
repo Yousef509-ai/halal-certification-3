@@ -1,4 +1,4 @@
-[<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
             background-color: #f8f8f8;
         }
         .container {
-            max-width: 600px;
+            max-width: 800px;
             margin: auto;
             background: white;
             padding: 20px;
@@ -25,22 +25,38 @@
         p {
             font-size: 18px;
             color: #555;
+            text-align: left;
         }
         img {
-            width: 200px;
-            margin-top: 20px;
+            width: 100%;
+            max-width: 800px;
+            display: block;
+            margin: auto;
+            border-radius: 10px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Blockchain-Backed Halal Certification</h1>
-        <p>Our certification system ensures <strong>full transparency, authenticity, and trust</strong> in halal meat products.</p>
-        <p>With <strong>Blockchain-backed Digital Product Passport (DPP)</strong>, consumers can verify the source, quality, and compliance of their halal meat purchases.</p>
-        <p>Scan the QR code to learn more.</p>
-        <img src="qr-code-placeholder.png" alt="QR Code" />
-        <p><small>This is a demo page for research purposes.</small></p>
+        <h1>Blockchain-Backed Halal Meat Certification</h1>
+        <p>Welcome! This page explains how **Blockchain Certification (BCT)** enhances halal food transparency, security, and trust.</p>
+        
+        <h2>How It Works</h2>
+        <p>See the simple process below to understand how blockchain verifies halal certification:</p>
+        
+        <!-- Infographic Image -->
+        <img src="image 1.png" alt="Blockchain Halal Certification Infographic">
+        
+        <h2>Why It Matters</h2>
+        <p>Blockchain-backed certification ensures:</p>
+        <ul>
+            <li>🔍 **Transparency** – See exactly where your meat comes from.</li>
+            <li>✅ **Authenticity** – Prevents fraudulent halal claims.</li>
+            <li>🔒 **Security** – Data is tamper-proof and verified.</li>
+        </ul>
+        
+        <h2>Scan to Verify</h2>
+        <p>Scan the QR code on your product packaging to check its certification details instantly.</p>
     </div>
 </body>
 </html>
-](https://yousef509-ai.github.io/halal-certification-3/)
